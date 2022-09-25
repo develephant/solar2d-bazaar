@@ -12,7 +12,6 @@ extra_css:
 plugins:
   - simple
   - search
-  - attr_list
   - def_list
   - pymdownx.details
   - pymdownx.highlight:
