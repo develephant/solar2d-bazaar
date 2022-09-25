@@ -1,10 +1,13 @@
 site_name: "Solar2D Bazaar"
 copyright: Copyright &copy;2022 develephant
-plugins:
-  - simple
 repo_url: ''
 theme:
   name: material
+  icon: material/white-balance-sunny
   palette:
-    primary: green
-    accent: green
+    scheme: slate
+    primary: deep orange
+    accent: orange
+plugins:
+  - simple
+  - search
