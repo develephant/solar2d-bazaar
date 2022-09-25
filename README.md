@@ -1,3 +1,3 @@
-# Sola2D Bazaar
+# Welcome
 
 A random collection of Solar2D libs, modules, and plugins.
