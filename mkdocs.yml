@@ -7,6 +7,8 @@ theme:
   favicon: images/logo.png
   palette:
     scheme: slate
+    primary: deep orange
+    accent: orange
 extra_css:
   - stylesheets/extra.css
 plugins:
