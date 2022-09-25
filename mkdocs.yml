@@ -6,9 +6,7 @@ theme:
   logo: images/logo.png
   favicon: images/logo.png
   palette:
-    scheme: slate
-    primary: deep orange
-    accent: orange
+    scheme: solar2d
 extra_css:
   - stylesheets/extra.css
 plugins:
