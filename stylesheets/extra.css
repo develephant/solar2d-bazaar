@@ -1,0 +1,9 @@
+[data-md-color-scheme="solar2d"] {
+  --md-primary-fg-color:        #ff8001;
+  --md-primary-fg-color--light: #ffcc01;
+  --md-primary-fg-color--dark:  #0b0146;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 210; 
+}

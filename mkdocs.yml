@@ -1,13 +1,24 @@
-site_name: "Solar2D Bazaar"
+site_name: Solar2D Bazaar
 copyright: Copyright &copy;2022 develephant
 repo_url: ''
 theme:
   name: material
-  icon: material/white-balance-sunny
+  logo: images/logo.png
+  favicon: images/logo.png
   palette:
     scheme: slate
-    primary: deep orange
-    accent: orange
+extra_css:
+  - stylesheets/extra.css
 plugins:
   - simple
   - search
+  - attr_list
+  - def_list
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
