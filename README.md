@@ -1,3 +1,3 @@
-# solar2d-bazaar
+# Sola2D Bazaar
 
-An app to collect random Solar2D libs, modules, and plugins.
+A random collection of Solar2D libs, modules, and plugins.
